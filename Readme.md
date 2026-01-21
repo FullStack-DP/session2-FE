@@ -34,9 +34,9 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Topics
 
-- Rendering lists in React, 
+- Rendering lists in React
 - Styling React components
-- Conditional rendering.
+- Conditional rendering
 
 <!-- - [Screenshots](./material/Screenshots.md) -->
 
