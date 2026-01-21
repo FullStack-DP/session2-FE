@@ -25,10 +25,18 @@ The video homework uses emojis to represent the significance of each video. Belo
 
 ### Thursday Morning: 
 
-- 
-- :blue_book: Review of React Basics: [Learn React 18 – Full Tutorial for Beginners](https://youtu.be/Flbw5BX_AX0?si=Pch8zLMRoSJwQzTQ) **From start till 2h 22min**
+- :star: [JavaScript SPREAD OPERATOR in 4 minutes!](https://www.youtube.com/watch?v=RuDdltsfaVc)
+- :bell: [Spread Operator (8min)](https://youtu.be/4Zyr5a3m0Fc?si=Cf7DYtSjbYaR2srD)
+- :blue_book: Review of React Basics: [Learn React 18 – Full Tutorial for Beginners](https://youtu.be/Flbw5BX_AX0?si=Pch8zLMRoSJwQzTQ) **From  2h 22min till2h 58min**
+
 
 ### Thursday Afternoon:
 
-- 
+- :star: [Learn React Click Events (12min)](https://www.youtube.com/watch?v=KpiiKuqNlYw)
+- :star: [React useState() hook introduction (16min)](https://www.youtube.com/watch?v=SpDG283b4bw)
+- :star: [Learn the React onChange event handler (14min)](https://youtu.be/JhIbXor84Wc?si=13qpnHbJHqkNSGqr)
+- :star: [What are React updater functions? (7min)](https://youtu.be/nbAaUpNDhRY?si=3NJ2OtTm4FraU9y_)
+- :star: [Build this React Color Picker app in 10 minutes](https://youtu.be/3hCN3dLHV24?si=nCVefGbjOMF1SERe)
+- :star: :blush: [JavaScript DESTRUCTURING in 8 minutes!](https://www.youtube.com/watch?v=UHZcJyVXtLo)
+- :bell: :blush: [Javascript Nuggets - Destructuring Array (9min)](https://youtu.be/qhECs40xMec?si=WOlv9knxNuOu7pw0)
   
