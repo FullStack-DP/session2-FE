@@ -2,7 +2,6 @@
 
 ### About 
 
-**This** pair programming session will be flexible and unstructured, without strict rules. 
 - In the first coding session, one member will code parts 1 and 2 and push the changes to GitHub, while the other member provides assistance. 
 - In the second session, the roles will switch: the second member will code parts 3 and 4, push the changes to GitHub, and the first member will assist.
 

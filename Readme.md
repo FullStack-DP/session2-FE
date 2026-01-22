@@ -45,10 +45,12 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 ### Morning: Pair Programming
 
 - [About Pair Programming](./material/about-pair-prog.md)
-- **React Practice:** In pairs, you'll collaborate to create four React components such as `IdCard` and `CreditCard`. 
-  - [Summary](./material/fe-practice-summary.md)
+- **Level 5 (Advanced):** There are **two parts** in this activity. You will work in pairs to build **five React components.** You may find this [summary](./material/fe-practice-summary.md) helpful.
   - [Part 1](./material/fe-practice.md)
   - [Part 2](./material/fe-practice2.md) 
+- **Level 1 (Beginner):** There are **two parts** in this activity. You will work **in pairs** to review and practice the concepts from last week’s group activities.
+  - [Part 1](./material/react-activity-old.md)
+  - [Part 2](./material/react-activity2-old.md) 
 
 -----
 
