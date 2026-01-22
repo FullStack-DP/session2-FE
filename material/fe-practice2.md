@@ -18,20 +18,20 @@
 ----
 ### Setup
 
-1. Clone the repo `react-practice` and give it a new name `fe-pp1-part2` using the following command:
+1. Clone the repo `react-practice` and give it a new name `w2-fe-pp-part2` using the following command:
 
     ```shell
-    git clone https://github.com/tx00-resources-en/react-practice fe-pp1-part2
+    git clone https://github.com/tx00-resources-en/react-practice w2-fe-pp-part2
     ```
 
 2. To remove the `.git` folder, cd into the cloned directory:
     ```shell
-    cd fe-pp1-part2
+    cd w2-fe-pp-part2
     ```
     - **Windows Users:** Run the following command to remove the Git history: `Remove-Item -Recurse -Force .git`
     - **macOS/Linux Users:** Run the following command to remove the repository's Git history: `rm -rf .git`
 
-3. Install packages and start the app using the following commands (in the `fe-pp1-part2` folder):
+3. Install packages and start the app using the following commands (in the `w2-fe-pp-part2` folder):
 
     ```shell
     npm install
