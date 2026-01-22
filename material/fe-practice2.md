@@ -5,7 +5,16 @@
 This pair programming session will be flexible and unstructured, without strict rules. 
 - In this session, the roles will switch: the second member will code parts 3 and 4, push the changes to GitHub, and the first member will assist.
 
-> Note that, when creating React components, it's recommended to focus on designing the user interface first, without worrying about styles. Once the functionality is in place, you can then add styles to the components.
+
+----
+
+> [!IMPORTANT]
+> - **No vibe coding** (no blind copy/paste). Every student is expected to **review and understand** every line they submit.
+> - If you use AI for help, you must be able to explain your code.
+> - The session **will be recorded** in your laptop so **please remove any personal** items from Desktop
+> - When creating React components, start by building the component structure and functionality (JSX + logic). Add styling only after the component works as intended.
+> - Each component must have at least **two commits**: one after completing the React logic and another after finishing the CSS. Grading will focus **primarily on the component’s structure, not its styling.**
+
 
 ----
 ### Setup
