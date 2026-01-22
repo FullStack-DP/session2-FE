@@ -56,6 +56,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Afternoon
 
+<!-- - [Student’s Contribution to Industry 5.0](./material/industry50.md) -->
 - ~~Draw.io~~
 - [Project Ideas](./material/project-ideas.md)
 - We'll focus on rendering lists in React, reviewing styling React components, and practicing conditional rendering.
